@@ -1,8 +1,23 @@
-# React + Vite
+# Project: 7C ReactJS Assessment Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### Live Demo: [https://akash-helloar-task.vercel.app/](https://akash-helloar-task.vercel.app/)
 
-Currently, two official plugins are available:
+## Technologies used: 
+* ReactJS
+* TailwindCSS
+* React-phone-input-2
+* Deployed on Vercel
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features:
+* Login using phone number
+* Verify otp
+* Play/Pause Song
+* Add song using link
+* Draggable seek bar to seek through the song.
+  
+
+### Sample Data to add new song :
+* Song Name: pandelion
+* Song Link: https://shorturl.at/nORZ0
+* Song Source: Youtube
+
